@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
 	"name": "ooo",
+=======
+	"name": "kkk",
+>>>>>>> 7ee8b619bb98486c520dd902e4c189fc52f1ee4a
 	"version": "0.0.1",
 	"description": "",
 	"main": "index.js",
@@ -24,6 +28,12 @@
 	"frame": "vue",
 	"repository": {
 		"type": "git",
+<<<<<<< HEAD
 		"url": "https://github.com/qjk-xiaoqi/ooo.git"
 	}
 }
+=======
+		"url": "https://github.com/qjk-xiaoqi/kkk.git"
+	}
+}
+>>>>>>> 7ee8b619bb98486c520dd902e4c189fc52f1ee4a
